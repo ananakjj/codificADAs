@@ -1,1 +1,143 @@
-# codificADAs
+# codificADAs - Código trabalho final
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Saga</title>
+</head>
+<body>
+
+    <header>
+        <h1>Star Wars Saga</h1>
+    </header>
+
+    <section>
+        <h2>A Saga que Atravessa Gerações</h2>
+        <p>
+            Star Wars é uma das sagas mais icônicas da história do cinema. Criada por George Lucas, a série cativou milhões de fãs ao redor do mundo, atravessando gerações e se tornando um fenômeno cultural. Desde o lançamento do primeiro filme em 1977, a saga expandiu-se para incluir trilogias, spin-offs, séries de TV, livros, quadrinhos e muito mais.
+        </p>
+        
+        <p>
+            Os fãs de Star Wars, conhecidos como "Star Wars Fans" ou "Jedi", são conhecidos por sua paixão e dedicação. Eles celebram a saga através de convenções, cosplays, fan arts e discussões intermináveis sobre o cânone e as teorias do universo expandido.
+        </p>
+    </section>
+
+    <section>
+        <h2>A Inspiração de George Lucas</h2>
+        <p>
+            George Lucas se inspirou em diversas fontes para criar Star Wars:
+        </p>
+        <ul>
+            <li><strong>Mitologia:</strong> A "Jornada do Herói", de Joseph Campbell, serviu como base para a estrutura narrativa da saga.</li>
+            <li><strong>Filmes de Faroeste e Samurai:</strong> Cenas de ação e duelos foram influenciados por filmes de faroeste e obras de Akira Kurosawa.</li>
+            <li><strong>Ficção Científica:</strong> Séries como "Flash Gordon" e "Buck Rogers" inspiraram o cenário espacial e a aventura.</li>
+            <li><strong>Eventos Históricos:</strong> O conflito entre o Império e os Rebeldes reflete lutas entre o bem e o mal, inspiradas em eventos como a Guerra Fria.</li>
+        </ul>
+        <p>
+            Com essas influências, Lucas criou uma saga que conquistou fãs de todas as idades e se tornou um grande marco na cultura pop.
+        </p>
+    </section>
+
+    <section>
+        <h2>Ordem Cronológica da Saga</h2>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Nome do Filme</th>
+                    <th>Ano Lançado</th>
+                    <th>Personagens Principais</th>
+                    <th>Bilheteria Mundial (USD)</th>
+                    <th>Descrição Breve</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Star Wars: Episódio I - A Ameaça Fantasma</td>
+                    <td>1999</td>
+                    <td>Qui-Gon Jinn, Obi-Wan Kenobi, Anakin Skywalker</td>
+                    <td>1.027 bilhão</td>
+                    <td>O jovem Anakin Skywalker é descoberto e começa sua jornada para se tornar um Jedi.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio II - Ataque dos Clones</td>
+                    <td>2002</td>
+                    <td>Anakin Skywalker, Padmé Amidala, Obi-Wan Kenobi</td>
+                    <td>649 milhões</td>
+                    <td>Anakin e Padmé se apaixonam enquanto a galáxia está à beira de uma guerra.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio III - A Vingança dos Sith</td>
+                    <td>2005</td>
+                    <td>Anakin Skywalker, Obi-Wan Kenobi, Yoda</td>
+                    <td>848 milhões</td>
+                    <td>Anakin cai para o lado sombrio e se transforma em Darth Vader.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio IV - Uma Nova Esperança</td>
+                    <td>1977</td>
+                    <td>Luke Skywalker, Leia Organa, Han Solo</td>
+                    <td>775 milhões</td>
+                    <td>Luke Skywalker começa sua jornada para se tornar um Jedi e derrotar o Império.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio V - O Império Contra-Ataca</td>
+                    <td>1980</td>
+                    <td>Luke Skywalker, Leia Organa, Han Solo</td>
+                    <td>538 milhões</td>
+                    <td>O Império ataca os rebeldes, e Luke descobre a verdade sobre seu pai.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio VI - O Retorno de Jedi</td>
+                    <td>1983</td>
+                    <td>Luke Skywalker, Leia Organa, Darth Vader</td>
+                    <td>475 milhões</td>
+                    <td>Luke confronta Darth Vader e o Imperador para salvar a galáxia.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio VII - O Despertar da Força</td>
+                    <td>2015</td>
+                    <td>Rey, Finn, Poe Dameron</td>
+                    <td>2.068 bilhões</td>
+                    <td>Uma nova ameaça surge, e Rey descobre sua conexão com a Força.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio VIII - Os Últimos Jedi</td>
+                    <td>2017</td>
+                    <td>Rey, Luke Skywalker, Kylo Ren</td>
+                    <td>1.333 bilhão</td>
+                    <td>Rey treina com Luke enquanto a Resistência luta pela sobrevivência.</td>
+                </tr>
+                <tr>
+                    <td>Star Wars: Episódio IX - A Ascensão Skywalker</td>
+                    <td>2019</td>
+                    <td>Rey, Kylo Ren, Finn</td>
+                    <td>1.074 bilhão</td>
+                    <td>A saga Skywalker chega ao seu clímax com uma batalha final contra o Imperador Palpatine.</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section>
+        <h2>A Trilha Sonora da Saga</h2>
+        <p>
+            A trilha sonora de Star Wars, composta por John Williams, é tão icônica quanto a própria saga. Algumas das faixas mais famosas incluem:
+        </p>
+        <ul>
+            <li><strong>Main Title (Tema Principal):</strong> A música de abertura que acompanha o texto rolante no início de cada filme.</li>
+            <li><strong>The Imperial March (Marcha Imperial):</strong> O tema associado a Darth Vader e ao Império Galáctico.</li>
+            <li><strong>Princess Leia's Theme:</strong> O tema da Princesa Leia, cheio de melodia e emoção.</li>
+            <li><strong>Duel of the Fates:</strong> A música épica que acompanha o duelo entre Qui-Gon Jinn, Obi-Wan Kenobi e Darth Maul em "A Ameaça Fantasma".</li>
+            <li><strong>Binary Sunset:</strong> A melodia tocada durante o pôr do sol em Tatooine, simbolizando a jornada de Luke Skywalker.</li>
+        </ul>
+       
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Star Wars Saga. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
