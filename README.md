@@ -1,6 +1,6 @@
 #Codificadas - Trabalho Final
 
-CSS
+
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -38,10 +38,10 @@ CSS
             font-weight: bold;
         }
 
-        /* Imagem de fundo no header */
-        header::before {
+        /* Imagem de fundo*/
+        body::before {
             content: "";
-            background-image: url('https://i.imgur.com/3ZQZQ9M.png'); /* Estrela da Morte */
+            background-image: url("https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1080-f1o3qr8zm0z4662c.jpg"); /* Estrelado */
             background-size: cover;
             background-position: center;
             opacity: 0.3;
@@ -161,8 +161,22 @@ CSS
                 max-width: 100%; /* Aumenta o tamanho das imagens em dispositivos móveis */
             }
         }
+
+        a {
+        color: white; /* Cor do link antes de ser clicado */
+        text-decoration: none; /* Remove o sublinhado */
+    }
+
+    a:visited {
+        color: white; /* Cor do link após ser clicado */
+    }
+
+    a:hover {
+        text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+    }
+
     </style>
-HTML 
+
 
 </head>
 <body>
@@ -288,11 +302,11 @@ HTML
             A trilha sonora de Star Wars, composta por John Williams, é tão icônica quanto a própria saga. Algumas das faixas mais famosas incluem:
         </p>
         <ul>
-            <li><strong>Main Title (Tema Principal):</strong> A música de abertura que acompanha o texto rolante no início de cada filme.</li>
-            <li><strong>The Imperial March (Marcha Imperial):</strong> O tema associado a Darth Vader e ao Império Galáctico.</li>
-            <li><strong>Princess Leia's Theme:</strong> O tema da Princesa Leia, cheio de melodia e emoção.</li>
-            <li><strong>Duel of the Fates:</strong> A música épica que acompanha o duelo entre Qui-Gon Jinn, Obi-Wan Kenobi e Darth Maul em "A Ameaça Fantasma".</li>
-            <li><strong>Binary Sunset:</strong> A melodia tocada durante o pôr do sol em Tatooine, simbolizando a jornada de Luke Skywalker.</li>
+            <li> <a href= "https://youtu.be/54hoKbTWon4?si=3P59P2l4n0j6xgWs" target="_blank"><strong>Main Title (Tema Principal):</strong></a> A música de abertura que acompanha o texto rolante no início de cada filme.</li>
+            <li> <a href= " https://youtu.be/vsMWVW4xtwI?si=9kA48UgBAQrXcB1o" target="_blank"><strong>The Imperial March (Marcha Imperial):</strong></a> O tema associado a Darth Vader e ao Império Galáctico.</li>
+            <li><a href= " https://youtu.be/WT1T6BwojXI?si=-RvEVzyIzHplVyDV" target="_blank"><strong>Princess Leia's Theme:</strong></a> O tema da Princesa Leia, cheio de melodia e emoção.</li>
+            <li><a href= " https://youtu.be/97-0ghnBMcs?si=cVcbf4wTM94-c4vy" target="_blank"><strong>Duel of the Fates:</strong></a>A música épica que acompanha o duelo entre Qui-Gon Jinn, Obi-Wan Kenobi e Darth Maul em "A Ameaça Fantasma".</li>
+            <li><a href= " https://youtu.be/u2W5YPQJqUs?si=xDrLOz9_MHXrSTAM" target="_blank"><strong>Binary Sunset:</strong> </a>A melodia tocada durante o pôr do sol em Tatooine, simbolizando a jornada de Luke Skywalker.</li>
         </ul>
         <div class="image-container">
             <img src="https://wallpapers.com/images/hd/star-wars-death-star-lobjmgq0es7whc97.jpg" alt="Estrela da Morte">
@@ -300,7 +314,7 @@ HTML
     </section>
 
     <footer>
-        <p>&copy; 2023 Star Wars Saga. Todos os direitos reservados.</p>
+        <p>&copy; 2025 Star Wars Saga.</p><p>Que a Força Esteja Com Você.</p>
     </footer>
 </body>
 </html>
