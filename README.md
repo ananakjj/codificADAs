@@ -1,7 +1,3 @@
-#Codificadas - Trabalho Final
-
-
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -22,6 +18,11 @@
             line-height: 1.6;
             background-color: #1a1a1a;
             color: #f4f4f4;
+
+            /* Imagem de fundo*/
+            
+            background-image: url("https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1080-f1o3qr8zm0z4662c.jpg"); /* Estrelado */
+          
         }
 
         header {
@@ -38,20 +39,6 @@
             font-weight: bold;
         }
 
-        /* Imagem de fundo*/
-        body::before {
-            content: "";
-            background-image: url("https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1080-f1o3qr8zm0z4662c.jpg"); /* Estrelado */
-            background-size: cover;
-            background-position: center;
-            opacity: 0.3;
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            z-index: -1;
-        }
 
         section {
             padding: 20px;
