@@ -30,7 +30,7 @@
             color: #ffd700;
             padding: 20px 0;
             text-align: center;
-            border-bottom: 3px solid #ffd700;
+            border-bottom: 6px solid #ffd700;
             position: relative;
         }
 
@@ -53,7 +53,7 @@
             color: #ffd700;
             margin-bottom: 15px;
             font-size: 2rem;
-            border-bottom: 2px solid #ffd700;
+            border-bottom: 4px solid #ffd700;
             display: inline-block;
             padding-bottom: 5px;
         }
@@ -105,7 +105,7 @@
             text-align: center;
             padding: 15px 0;
             margin-top: 30px;
-            border-top: 3px solid #ffd700;
+            border-top: 6px solid #ffd700;
         }
 
         footer p {
